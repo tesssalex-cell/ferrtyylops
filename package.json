@@ -9,15 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "framer-motion": "^11.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "@react-three/fiber": "^8.13.0",
-    "@react-three/drei": "^9.56.0",
-    "three": "^0.155.0",
-    "react-tsparticles": "^2.12.2",
-    "tsparticles": "^2.12.2"
-  },
+  "framer-motion": "^11.0.0",
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "@react-three/fiber": "^8.13.0",
+  "@react-three/drei": "^9.56.0",
+  "three": "^0.155.0",
+  "react-tsparticles": "^2.11.1"
+},
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
     "autoprefixer": "^10.4.0",
